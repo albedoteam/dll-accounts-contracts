@@ -1,4 +1,4 @@
-﻿namespace Accounts.Contracts.Requests
+﻿namespace AlbedoTeam.Accounts.Contracts.Requests
 {
     public interface UpdateAccount
     {

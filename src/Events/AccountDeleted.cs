@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Accounts.Contracts.Events
+namespace AlbedoTeam.Accounts.Contracts.Events
 {
     public interface AccountDeleted
     {

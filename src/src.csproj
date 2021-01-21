@@ -2,8 +2,8 @@
 
     <PropertyGroup>
         <TargetFramework>netcoreapp3.1</TargetFramework>
-        <AssemblyName>Accounts.Contracts</AssemblyName>
-        <RootNamespace>Accounts.Contracts</RootNamespace>
+        <AssemblyName>AlbedoTeam.Accounts.Contracts</AssemblyName>
+        <RootNamespace>AlbedoTeam.Accounts.Contracts</RootNamespace>
     </PropertyGroup>
 
     <ItemGroup>
