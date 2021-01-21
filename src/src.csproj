@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <TargetFramework>netcoreapp3.1</TargetFramework>
+        <AssemblyName>Accounts.Contracts</AssemblyName>
+        <RootNamespace>Accounts.Contracts</RootNamespace>
+    </PropertyGroup>
+
+    <ItemGroup>
+      <Folder Include="Commands" />
+    </ItemGroup>
+
+</Project>
