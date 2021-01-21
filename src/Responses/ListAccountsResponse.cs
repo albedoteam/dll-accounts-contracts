@@ -1,6 +1,6 @@
 ﻿using System.Collections.Generic;
 
-namespace Accounts.Contracts.Responses
+namespace AlbedoTeam.Accounts.Contracts.Responses
 {
     public interface ListAccountsResponse
     {
