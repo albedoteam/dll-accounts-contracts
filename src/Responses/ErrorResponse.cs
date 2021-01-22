@@ -1,4 +1,6 @@
-﻿namespace AlbedoTeam.Accounts.Contracts.Responses
+﻿using AlbedoTeam.Accounts.Contracts.Common;
+
+namespace AlbedoTeam.Accounts.Contracts.Responses
 {
     public interface ErrorResponse
     {

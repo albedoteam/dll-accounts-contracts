@@ -9,7 +9,7 @@ namespace AlbedoTeam.Accounts.Contracts.Responses
         string Description { get; set; }
         string IdentificationNumber { get; set; }
         bool Enabled { get; set; }
-        
+
         DateTime CreatedAt { get; set; }
         DateTime? UpdatedAt { get; set; }
         bool IsDeleted { get; set; }
