@@ -8,6 +8,7 @@ namespace AlbedoTeam.Accounts.Contracts.Responses
         int PageSize { get; set; }
         int RecordsInPage { get; set; }
         int TotalPages { get; set; }
+        Dictionary<string, string> FilteredBy { get; set; }
         List<AccountResponse> Items { get; set; }
     }
 }
