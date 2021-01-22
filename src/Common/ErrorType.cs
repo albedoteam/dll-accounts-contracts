@@ -1,4 +1,4 @@
-﻿namespace AlbedoTeam.Accounts.Contracts.Responses
+﻿namespace AlbedoTeam.Accounts.Contracts.Common
 {
     public enum ErrorType
     {
