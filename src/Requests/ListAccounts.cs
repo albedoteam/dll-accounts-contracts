@@ -8,8 +8,8 @@ namespace AlbedoTeam.Accounts.Contracts.Requests
         bool ShowDeleted { get; set; }
         int Page { get; set; }
         int PageSize { get; set; }
-        Dictionary<FilterByField, string> FilterBy { get; set; }
-        OrderByField OrderBy { get; set; }
+        string FilterBy { get; set; }
+        string OrderBy { get; set; }
         Sorting Sorting { get; set; }
     }
 }
